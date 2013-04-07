@@ -1,2 +1,1 @@
-emberchat
-=========
+EmberChat will be back in an even better form soon...
